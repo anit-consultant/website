@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Anit Shrestha Manandhar | Software Engineer"
+title = "Anit Shrestha Manandhar | Software Solutions Consultant"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -14,10 +14,10 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Hi I'm Anit."
-    info = "I help startups in web/mobile application development."
-    description = "Personal website of Anit Shrestha Manandhar | Software Engineer | Software Developer | Programmers"
-    keywords = "personal website, software engineer, software developer, programmer"
+    author = "Anit Shrestha Manandhar"
+    info = "Software Solutions Consultant"
+    description = "Anit Shrestha Manandhar | Software Solutions Consultant"
+    keywords = "personal website, software solutons consultant, software engineer, software developer, programmer"
     avatarurl = ""
 
     favicon_32 = "/images/favicon.ico"
