@@ -1,0 +1,32 @@
+---
+enable: true
+content: >
+  # Industries 
+
+icons:
+  - icon: "fa-file-invoice-dollar"
+    industry: "Banking"
+  - icon: "fa-dollar"
+    industry: "Remittance"
+  - icon: "fa-shopping-basket"
+    industry: "e-Commerce"
+  - icon: "fa-wallet"
+    industry: "Mobile Pay"
+  - icon: "fa-cash-register"
+    industry: "Point Of Sales"
+  - icon: "fa-bus"
+    industry: "Transportation"
+  - icon: "fa-h-square"
+    industry: "Hospital"
+  - icon: "fa-shipping-fast"
+    industry: Logistics
+  - icon: "fa-utensils"
+    industry: Hotel
+  - icon: "fa-users"
+    industry: "Human Resource"
+  - icon: "fa-school"
+    industry: "School"
+  - icon: "fa-route"
+    industry: "Travel"
+  - icon: "fa-dumbbell"
+    industry: "Fitness"

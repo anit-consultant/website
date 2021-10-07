@@ -1,0 +1,25 @@
+{{ with .Site.Data.industrySection }}
+{{ if .enable }}
+<section id="industry" style="background:white;position: relative;">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+                <div class="skill__thumb">
+                    <div class="skill__progress_heading mb-5">
+                        {{ .content | markdownify }}
+                    </div>
+                </div>
+					<ul class="unstyle-list">
+						{{ $icons := .icons }}
+						{{ range $icons }}
+						<li class="d-inline-block mx-2">
+							<h3><i class="fa {{ .icon }}" style="font-size: 3.3rem; line-height:1.39;"></i> {{ .industry }}</h3>
+						</li>
+						{{ end }}
+					</ul>
+			</div>
+		</div>
+	</div>
+</section>
+{{ end }}
+{{ end }}

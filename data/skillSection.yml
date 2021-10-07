@@ -1,0 +1,19 @@
+---
+enable: true
+content: >
+  # Skills 
+
+  ## Enterprise Systems
+
+  ## Web, Desktop and Mobile Applications
+  
+
+
+
+skill:
+  - title: Backend Programming (Java, C#, Go, PHP, Python)
+    percent: 90
+  - title: System, DevOps, SRE (Linux)
+    percent: 80
+  - title: Frontend (JavaScript) 
+    percent: 70
