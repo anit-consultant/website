@@ -14,6 +14,8 @@ icons:
     industry: "Mobile Pay"
   - icon: "fa-cash-register"
     industry: "Point Of Sales"
+  - icon: "fa-tag"
+    industry: "Retail"
   - icon: "fa-bus"
     industry: "Transportation"
   - icon: "fa-h-square"

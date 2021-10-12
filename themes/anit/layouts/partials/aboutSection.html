@@ -1,12 +1,19 @@
 {{ with .Site.Data.aboutSection }}
 {{ if .enable }}
-<section class="section about" id="about" style="margin:120px">
+<section class="section about" id="about" style="margin-top:60px">
     <div class="container">
         <div class="row row">
-            <div class="col-lg-12">
+            <div class="col-lg-6">
                 <div class="about_content">
                         <div class="mb-4 text-dark">
-                            {{ .content | markdownify}}
+                            {{ .content1 | markdownify}}
+                        </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="about_content">
+                        <div class="mb-4 text-dark">
+                            {{ .content2 | markdownify}}
                         </div>
                 </div>
             </div>
