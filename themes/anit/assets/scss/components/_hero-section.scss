@@ -2,6 +2,17 @@
   padding: 93px 0;
   position: relative;
   display: flex;
+  background:url('../images/people-crowd-people_at_street.png')  no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  opacity: 0.9;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+  overflow: hidden;
   @include desktop {
     padding: 80px 0 30px 0;
   }
@@ -47,7 +58,7 @@
   &_figure {
     width: 90%;
     margin-left: auto;
-    border-radius: 20px;
+    border-radius: 5px;
     position: relative;
     @include desktop {
     }

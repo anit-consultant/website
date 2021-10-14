@@ -2,7 +2,7 @@
 {{ if .enable }}
 <section class="section skill">
     <div class="container">
-        <div class="row align-items-center">
+        <div class="row">
             <div class="col-lg-6">
                 <div class="skill__thumb">
                     <div class="skill__progress_heading mb-5">
@@ -11,8 +11,8 @@
                 </div>
             </div>
             <div class="col-lg-6">
+                <div class="col-lg-12"></i><h2 style="padding:6px; font-weight: bold;">Acquire Skills <i class="fa fa-handshake"></i></h2></div>
                 <div class="skill__progress">
-                
                     {{ $section := .skill }}
                     {{ range $section }}
                     <div class="skill__progress_item">
