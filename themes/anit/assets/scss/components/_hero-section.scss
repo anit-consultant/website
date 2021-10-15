@@ -2,13 +2,18 @@
   padding: 93px 0;
   position: relative;
   display: flex;
+  background:url('../images/ibm-background.jpg')  repeat-y center center fixed  !important; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+  overflow: hidden;
   @include desktop {
     padding: 80px 0 30px 0;
-  }
-  &_area{
-    background: #74bacf;  
-    background: -webkit-linear-gradient(to left, #74bacf, yellow); 
-    opacity: 1;
   }
   &_circles{
     position: absolute;
