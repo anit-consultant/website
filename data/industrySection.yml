@@ -1,7 +1,7 @@
 ---
 enable: true
 content: >
-  # Industries 
+  # Industry Experience
 
 icons:
   - icon: "fa-file-invoice-dollar"
@@ -16,10 +16,12 @@ icons:
     industry: "Sales"
   - icon: "fa-tag"
     industry: "Retail"
-  - icon: "fa-bus"
-    industry: "Transportation"
   - icon: "fa-h-square"
     industry: "Hospital"
+  - icon: "fa-route"
+    industry: "Travel"
+  - icon: "fa-bus"
+    industry: "Transport"
   - icon: "fa-shipping-fast"
     industry: Logistics
   - icon: "fa-utensils"
@@ -28,7 +30,5 @@ icons:
     industry: "Human Resource"
   - icon: "fa-school"
     industry: "School"
-  - icon: "fa-route"
-    industry: "Travel"
   - icon: "fa-dumbbell"
-    industry: "Fitness"
+    industry: "Health"
