@@ -2,7 +2,7 @@
 enable: true
 title: > 
 content1: >
-  # __10+ years of experience designing, developing 
+  # __10+ years of professional experience designing, developing 
   and delivering value added software products.__
 content2: >
   ## __We can only succeed by working together as a team.__ 
@@ -13,6 +13,6 @@ content2: >
 
   #### __A good consultant can help make all of this possible.__
 
-  *Get a thorough consultation before making any investment in your software assets.*
+  **Get a thorough consultation before making any investment in your software assets.**
 
 image: images/about/operations-system-person-cloud.svg
