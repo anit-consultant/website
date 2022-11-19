@@ -1,0 +1,142 @@
+[
+  {
+    "label": "google",
+    "permalink": "/blog/tags/google",
+    "count": 1
+  },
+  {
+    "label": "challenge",
+    "permalink": "/blog/tags/challenge",
+    "count": 1
+  },
+  {
+    "label": "series",
+    "permalink": "/blog/tags/series",
+    "count": 7
+  },
+  {
+    "label": "cipher",
+    "permalink": "/blog/tags/cipher",
+    "count": 1
+  },
+  {
+    "label": "first",
+    "permalink": "/blog/tags/first",
+    "count": 1
+  },
+  {
+    "label": "caesar",
+    "permalink": "/blog/tags/caesar",
+    "count": 1
+  },
+  {
+    "label": "kubernetes",
+    "permalink": "/blog/tags/kubernetes",
+    "count": 6
+  },
+  {
+    "label": "devops",
+    "permalink": "/blog/tags/devops",
+    "count": 6
+  },
+  {
+    "label": "overview",
+    "permalink": "/blog/tags/overview",
+    "count": 5
+  },
+  {
+    "label": "part_6",
+    "permalink": "/blog/tags/part-6",
+    "count": 1
+  },
+  {
+    "label": "volume",
+    "permalink": "/blog/tags/volume",
+    "count": 1
+  },
+  {
+    "label": "part_5",
+    "permalink": "/blog/tags/part-5",
+    "count": 1
+  },
+  {
+    "label": "controllers",
+    "permalink": "/blog/tags/controllers",
+    "count": 1
+  },
+  {
+    "label": "part_4",
+    "permalink": "/blog/tags/part-4",
+    "count": 1
+  },
+  {
+    "label": "services",
+    "permalink": "/blog/tags/services",
+    "count": 1
+  },
+  {
+    "label": "basics",
+    "permalink": "/blog/tags/basics",
+    "count": 2
+  },
+  {
+    "label": "part_3",
+    "permalink": "/blog/tags/part-3",
+    "count": 1
+  },
+  {
+    "label": "components",
+    "permalink": "/blog/tags/components",
+    "count": 1
+  },
+  {
+    "label": "part_2",
+    "permalink": "/blog/tags/part-2",
+    "count": 1
+  },
+  {
+    "label": "objects",
+    "permalink": "/blog/tags/objects",
+    "count": 1
+  },
+  {
+    "label": "part_1",
+    "permalink": "/blog/tags/part-1",
+    "count": 1
+  },
+  {
+    "label": "website",
+    "permalink": "/blog/tags/website",
+    "count": 1
+  },
+  {
+    "label": "blog",
+    "permalink": "/blog/tags/blog",
+    "count": 1
+  },
+  {
+    "label": "gatsby",
+    "permalink": "/blog/tags/gatsby",
+    "count": 1
+  },
+  {
+    "label": "javascript",
+    "permalink": "/blog/tags/javascript",
+    "count": 1
+  },
+  {
+    "label": "typescript",
+    "permalink": "/blog/tags/typescript",
+    "count": 1
+  },
+  {
+    "label": "jam-stack",
+    "permalink": "/blog/tags/jam-stack",
+    "count": 1
+  },
+  {
+    "label": "static-wesite",
+    "permalink": "/blog/tags/static-wesite",
+    "count": 1
+  }
+]

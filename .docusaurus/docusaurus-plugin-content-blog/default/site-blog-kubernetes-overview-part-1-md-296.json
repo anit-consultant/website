@@ -1,0 +1,53 @@
+{
+  "permalink": "/blog/kubernetes-overview",
+  "source": "@site/blog/kubernetes-overview-part_1.md",
+  "title": "Kubernetes Overview",
+  "description": "The easiest way to visualize components and how they work.",
+  "date": "2020-07-01T00:00:00.000Z",
+  "formattedDate": "July 1, 2020",
+  "tags": [
+    {
+      "label": "kubernetes",
+      "permalink": "/blog/tags/kubernetes"
+    },
+    {
+      "label": "devops",
+      "permalink": "/blog/tags/devops"
+    },
+    {
+      "label": "overview",
+      "permalink": "/blog/tags/overview"
+    },
+    {
+      "label": "series",
+      "permalink": "/blog/tags/series"
+    },
+    {
+      "label": "part_1",
+      "permalink": "/blog/tags/part-1"
+    }
+  ],
+  "readingTime": 1.875,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "title": "Kubernetes Overview",
+    "date": "2020-07-01",
+    "tags": [
+      "kubernetes",
+      "devops",
+      "overview",
+      "series",
+      "part_1"
+    ],
+    "slug": "kubernetes-overview"
+  },
+  "prevItem": {
+    "title": "Kubernetes Objects",
+    "permalink": "/blog/kubernetes-objects"
+  },
+  "nextItem": {
+    "title": "Website With GatsbyJS",
+    "permalink": "/blog/website-with-gatsby"
+  }
+}

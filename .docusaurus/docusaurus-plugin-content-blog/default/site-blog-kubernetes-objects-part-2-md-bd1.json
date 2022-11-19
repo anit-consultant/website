@@ -1,0 +1,63 @@
+{
+  "permalink": "/blog/kubernetes-objects",
+  "source": "@site/blog/kubernetes-objects-part_2.md",
+  "title": "Kubernetes Objects",
+  "description": "Essential building blocks of the complicated system.",
+  "date": "2020-07-09T00:00:00.000Z",
+  "formattedDate": "July 9, 2020",
+  "tags": [
+    {
+      "label": "kubernetes",
+      "permalink": "/blog/tags/kubernetes"
+    },
+    {
+      "label": "devops",
+      "permalink": "/blog/tags/devops"
+    },
+    {
+      "label": "basics",
+      "permalink": "/blog/tags/basics"
+    },
+    {
+      "label": "overview",
+      "permalink": "/blog/tags/overview"
+    },
+    {
+      "label": "series",
+      "permalink": "/blog/tags/series"
+    },
+    {
+      "label": "part_2",
+      "permalink": "/blog/tags/part-2"
+    },
+    {
+      "label": "objects",
+      "permalink": "/blog/tags/objects"
+    }
+  ],
+  "readingTime": 1.665,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "title": "Kubernetes Objects",
+    "date": "2020-07-09",
+    "tags": [
+      "kubernetes",
+      "devops",
+      "basics",
+      "overview",
+      "series",
+      "part_2",
+      "objects"
+    ],
+    "slug": "kubernetes-objects"
+  },
+  "prevItem": {
+    "title": "Kubernetes Components",
+    "permalink": "/blog/kubernetes-components"
+  },
+  "nextItem": {
+    "title": "Kubernetes Overview",
+    "permalink": "/blog/kubernetes-overview"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "permalink": "/blog/kubernetes-controllers",
+  "source": "@site/blog/kubernetes-controller-part_5.md",
+  "title": "Kubernetes Controller",
+  "description": "The brain of the system that keeps track of all the other parts.",
+  "date": "2020-07-15T00:00:00.000Z",
+  "formattedDate": "July 15, 2020",
+  "tags": [
+    {
+      "label": "kubernetes",
+      "permalink": "/blog/tags/kubernetes"
+    },
+    {
+      "label": "devops",
+      "permalink": "/blog/tags/devops"
+    },
+    {
+      "label": "overview",
+      "permalink": "/blog/tags/overview"
+    },
+    {
+      "label": "series",
+      "permalink": "/blog/tags/series"
+    },
+    {
+      "label": "part_5",
+      "permalink": "/blog/tags/part-5"
+    },
+    {
+      "label": "controllers",
+      "permalink": "/blog/tags/controllers"
+    }
+  ],
+  "readingTime": 3.045,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "title": "Kubernetes Controller",
+    "date": "2020-07-15",
+    "tags": [
+      "kubernetes",
+      "devops",
+      "overview",
+      "series",
+      "part_5",
+      "controllers"
+    ],
+    "slug": "kubernetes-controllers"
+  },
+  "prevItem": {
+    "title": "Kubernetes Volume",
+    "permalink": "/blog/kubernetes-volume"
+  },
+  "nextItem": {
+    "title": "Kubernetes Service",
+    "permalink": "/blog/kubernetes-services"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "permalink": "/blog/website-with-gatsby",
+  "source": "@site/blog/website-with-gatsbyjs.md",
+  "title": "Website With GatsbyJS",
+  "description": "Building a static website with GatsbyJS.",
+  "date": "2020-06-09T00:00:00.000Z",
+  "formattedDate": "June 9, 2020",
+  "tags": [
+    {
+      "label": "website",
+      "permalink": "/blog/tags/website"
+    },
+    {
+      "label": "blog",
+      "permalink": "/blog/tags/blog"
+    },
+    {
+      "label": "gatsby",
+      "permalink": "/blog/tags/gatsby"
+    },
+    {
+      "label": "javascript",
+      "permalink": "/blog/tags/javascript"
+    },
+    {
+      "label": "typescript",
+      "permalink": "/blog/tags/typescript"
+    },
+    {
+      "label": "jam-stack",
+      "permalink": "/blog/tags/jam-stack"
+    },
+    {
+      "label": "static-wesite",
+      "permalink": "/blog/tags/static-wesite"
+    }
+  ],
+  "readingTime": 2.015,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "title": "Website With GatsbyJS",
+    "date": "2020-06-09",
+    "tags": [
+      "website",
+      "blog",
+      "gatsby",
+      "javascript",
+      "typescript",
+      "jam-stack",
+      "static-wesite"
+    ],
+    "slug": "website-with-gatsby"
+  },
+  "prevItem": {
+    "title": "Kubernetes Overview",
+    "permalink": "/blog/kubernetes-overview"
+  }
+}

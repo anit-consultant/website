@@ -1,0 +1,25 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Google FooBar First Challenge",
+      "permalink": "/blog/google-foobar-first-challenge-caesar-cipher"
+    },
+    {
+      "title": "Kubernetes Volume",
+      "permalink": "/blog/kubernetes-volume"
+    },
+    {
+      "title": "Kubernetes Controller",
+      "permalink": "/blog/kubernetes-controllers"
+    },
+    {
+      "title": "Kubernetes Service",
+      "permalink": "/blog/kubernetes-services"
+    },
+    {
+      "title": "Kubernetes Components",
+      "permalink": "/blog/kubernetes-components"
+    }
+  ]
+}

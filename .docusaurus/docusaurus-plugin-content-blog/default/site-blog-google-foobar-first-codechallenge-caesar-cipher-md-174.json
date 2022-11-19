@@ -1,0 +1,54 @@
+{
+  "permalink": "/blog/google-foobar-first-challenge-caesar-cipher",
+  "source": "@site/blog/google-foobar-first-codechallenge-caesar-cipher.md",
+  "title": "Google FooBar First Challenge",
+  "description": "Solving Caesar Cipher",
+  "date": "2020-07-19T00:00:00.000Z",
+  "formattedDate": "July 19, 2020",
+  "tags": [
+    {
+      "label": "google",
+      "permalink": "/blog/tags/google"
+    },
+    {
+      "label": "challenge",
+      "permalink": "/blog/tags/challenge"
+    },
+    {
+      "label": "series",
+      "permalink": "/blog/tags/series"
+    },
+    {
+      "label": "cipher",
+      "permalink": "/blog/tags/cipher"
+    },
+    {
+      "label": "first",
+      "permalink": "/blog/tags/first"
+    },
+    {
+      "label": "caesar",
+      "permalink": "/blog/tags/caesar"
+    }
+  ],
+  "readingTime": 5.92,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "title": "Google FooBar First Challenge",
+    "date": "2020-07-19",
+    "tags": [
+      "google",
+      "challenge",
+      "series",
+      "cipher",
+      "first",
+      "caesar"
+    ],
+    "slug": "google-foobar-first-challenge-caesar-cipher"
+  },
+  "nextItem": {
+    "title": "Kubernetes Volume",
+    "permalink": "/blog/kubernetes-volume"
+  }
+}

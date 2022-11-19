@@ -1,0 +1,58 @@
+{
+  "permalink": "/blog/kubernetes-components",
+  "source": "@site/blog/kubernetes-components-part_3.md",
+  "title": "Kubernetes Components",
+  "description": "A quick look at the building blocks in simple terms for quick understanding.",
+  "date": "2020-07-12T00:00:00.000Z",
+  "formattedDate": "July 12, 2020",
+  "tags": [
+    {
+      "label": "kubernetes",
+      "permalink": "/blog/tags/kubernetes"
+    },
+    {
+      "label": "devops",
+      "permalink": "/blog/tags/devops"
+    },
+    {
+      "label": "basics",
+      "permalink": "/blog/tags/basics"
+    },
+    {
+      "label": "series",
+      "permalink": "/blog/tags/series"
+    },
+    {
+      "label": "part_3",
+      "permalink": "/blog/tags/part-3"
+    },
+    {
+      "label": "components",
+      "permalink": "/blog/tags/components"
+    }
+  ],
+  "readingTime": 5.21,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "title": "Kubernetes Components",
+    "date": "2020-07-12",
+    "tags": [
+      "kubernetes",
+      "devops",
+      "basics",
+      "series",
+      "part_3",
+      "components"
+    ],
+    "slug": "kubernetes-components"
+  },
+  "prevItem": {
+    "title": "Kubernetes Service",
+    "permalink": "/blog/kubernetes-services"
+  },
+  "nextItem": {
+    "title": "Kubernetes Objects",
+    "permalink": "/blog/kubernetes-objects"
+  }
+}

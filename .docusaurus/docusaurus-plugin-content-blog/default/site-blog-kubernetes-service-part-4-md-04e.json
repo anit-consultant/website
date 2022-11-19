@@ -1,0 +1,58 @@
+{
+  "permalink": "/blog/kubernetes-services",
+  "source": "@site/blog/kubernetes-service-part_4.md",
+  "title": "Kubernetes Service",
+  "description": "An important component that manages routes and containers.",
+  "date": "2020-07-14T00:00:00.000Z",
+  "formattedDate": "July 14, 2020",
+  "tags": [
+    {
+      "label": "kubernetes",
+      "permalink": "/blog/tags/kubernetes"
+    },
+    {
+      "label": "devops",
+      "permalink": "/blog/tags/devops"
+    },
+    {
+      "label": "overview",
+      "permalink": "/blog/tags/overview"
+    },
+    {
+      "label": "series",
+      "permalink": "/blog/tags/series"
+    },
+    {
+      "label": "part_4",
+      "permalink": "/blog/tags/part-4"
+    },
+    {
+      "label": "services",
+      "permalink": "/blog/tags/services"
+    }
+  ],
+  "readingTime": 2.11,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "title": "Kubernetes Service",
+    "date": "2020-07-14",
+    "tags": [
+      "kubernetes",
+      "devops",
+      "overview",
+      "series",
+      "part_4",
+      "services"
+    ],
+    "slug": "kubernetes-services"
+  },
+  "prevItem": {
+    "title": "Kubernetes Controller",
+    "permalink": "/blog/kubernetes-controllers"
+  },
+  "nextItem": {
+    "title": "Kubernetes Components",
+    "permalink": "/blog/kubernetes-components"
+  }
+}
