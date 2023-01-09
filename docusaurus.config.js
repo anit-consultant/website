@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 
 const config = {
-  title: 'Anit Shrestha - Software Consultant',
+  title: 'ANIT - Enterprise Software Consultant',
   url: 'https://anitshrestha.com.np',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -43,7 +43,13 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
+      },
       navbar: {
+        hideOnScroll: true,
         logo: {
           alt: 'Logo',
           src: 'img/logo.png',
@@ -52,9 +58,9 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'knowledgebase',
+            docId: 'wiki',
             position: 'left',
-            label: 'Knowledge Base',
+            label: 'Wiki',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -73,6 +79,10 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+
+      footer: {
+        copyright: `Copyright © ${new Date().getFullYear()} Anit Shrestha. Built with Docusaurus.`,
+        }  
     }),
 };
 

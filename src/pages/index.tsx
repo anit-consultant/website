@@ -11,8 +11,8 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <p className="hero__title">Software Consultant</p>
-        <p className="hero__subtitle">Anit Shrestha</p>
+        <div className="hero__title">ANIT</div>
+        <p className="hero__subtitle">ENTERPRISE SOFTWARE CONSULTANT</p>
       </div>
     </header>
   );
@@ -23,7 +23,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title="anitshrestha.com.np"
-      description="Software Consultant">
+      description="Enterprise Software Consultant">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

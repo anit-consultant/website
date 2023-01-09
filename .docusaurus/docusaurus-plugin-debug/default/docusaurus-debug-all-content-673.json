@@ -18,14 +18,14 @@
           "contentPathLocalized": "/home/anit/work/anitshrestha-com-np/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "knowledgebase",
-              "id": "knowledgebase",
+              "unversionedId": "wiki",
+              "id": "wiki",
               "title": "Introduction",
               "description": "Discover things I've learned",
-              "source": "@site/docs/knowledgebase.md",
+              "source": "@site/docs/wiki.md",
               "sourceDirName": ".",
-              "slug": "/knowledgebase",
-              "permalink": "/docs/knowledgebase",
+              "slug": "/wiki",
+              "permalink": "/docs/wiki",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -41,7 +41,7 @@
             "tutorialSidebar": [
               {
                 "type": "doc",
-                "id": "knowledgebase"
+                "id": "wiki"
               }
             ]
           }

@@ -8,11 +8,11 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "knowledgebase",
+          "mainDocId": "wiki",
           "docs": [
             {
-              "id": "knowledgebase",
-              "path": "/docs/knowledgebase",
+              "id": "wiki",
+              "path": "/docs/wiki",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -20,8 +20,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/knowledgebase",
-                "label": "knowledgebase"
+                "path": "/docs/wiki",
+                "label": "wiki"
               }
             }
           }

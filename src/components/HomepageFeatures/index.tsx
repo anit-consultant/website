@@ -22,7 +22,7 @@ const FeatureList: FeatureItem[] = [
     title: 'Expertise',
     description: (
       <>
-        <p>Web Applications</p>
+        <p>Enterprise Applications</p>
         <p>Systems Development</p>
         <p>Platform & Infrastructure</p>
       </>
@@ -33,8 +33,8 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
         <p>Startups</p>
-        <p>Small & Medium Sized Enterprises</p>
-        <p>Enterprise Applications</p>
+        <p>Small & Medium Sized Business</p>
+        <p>Enterprises</p>
       </>
     ),
   },
@@ -42,7 +42,7 @@ const FeatureList: FeatureItem[] = [
 
 function Feature({title, description}: FeatureItem) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx('col col--3', styles.heroBanner)}>
       <div className="text">
         <h1>{title}</h1>
         <p>{description}</p>
@@ -55,12 +55,12 @@ export default function HomepageFeatures(): JSX.Element {
   return (
     <section className={styles.features}>
       <div className="container">
-          <div className="row">
-            {FeatureList.map((props, idx) => (
-              <Feature key={idx} {...props} />
-            ))}
-          </div>
+        <div className="row">
+          {FeatureList.map((props, idx) => (
+            <Feature key={idx} {...props} />
+          ))}
         </div>
+      </div>
     </section>
   );
 }

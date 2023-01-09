@@ -239,11 +239,11 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '549'),
+    component: ComponentCreator('/docs', '027'),
     routes: [
       {
-        path: '/docs/knowledgebase',
-        component: ComponentCreator('/docs/knowledgebase', '6c7'),
+        path: '/docs/wiki',
+        component: ComponentCreator('/docs/wiki', 'ca3'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

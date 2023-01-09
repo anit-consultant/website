@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Anit Shrestha - Software Consultant",
+  "title": "ANIT - Enterprise Software Consultant",
   "url": "https://anitshrestha.com.np",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
@@ -35,7 +35,13 @@ export default {
     ]
   ],
   "themeConfig": {
+    "colorMode": {
+      "defaultMode": "light",
+      "disableSwitch": true,
+      "respectPrefersColorScheme": false
+    },
     "navbar": {
+      "hideOnScroll": true,
       "logo": {
         "alt": "Logo",
         "src": "img/logo.png"
@@ -44,9 +50,9 @@ export default {
       "items": [
         {
           "type": "doc",
-          "docId": "knowledgebase",
+          "docId": "wiki",
           "position": "left",
-          "label": "Knowledge Base"
+          "label": "Wiki"
         },
         {
           "to": "/blog",
@@ -63,8 +69,7 @@ export default {
           "label": "Linkedin",
           "position": "right"
         }
-      ],
-      "hideOnScroll": false
+      ]
     },
     "prism": {
       "theme": {
@@ -270,10 +275,10 @@ export default {
         }
       ]
     },
-    "colorMode": {
-      "defaultMode": "light",
-      "disableSwitch": false,
-      "respectPrefersColorScheme": false
+    "footer": {
+      "copyright": "Copyright © 2023 Anit Shrestha. Built with Docusaurus.",
+      "style": "light",
+      "links": []
     },
     "docs": {
       "versionPersistence": "localStorage",

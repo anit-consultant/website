@@ -15,7 +15,7 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #000;
+  --ifm-color-primary:  rgb(14, 14, 27);
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
   --ifm-color-primary-darkest: #205d3b;
@@ -37,18 +37,19 @@
 }
 
 .hero {
-  background-image: url("/img/guy-measuring.jpg") !important; 
+  background-color: #fff;
+  /* background-image: url("/img/guy-measuring.jpg") !important; 
   background-repeat: no-repeat;
-  background-position: l 10% top 15%;
+  background-position: l 10% top 15%; */
 }
 
 .hero .hero__title {
-  color: blue;
+  color: rgb(14, 14, 27);
   font-weight: bolder;
 }
 
 .hero .hero__subtitle {
-  color: blue;
+  color: rgb(14, 14, 27);
   font-weight: bolder;
 }
 
@@ -59,25 +60,19 @@
   article header h1 {
     font-size: 1.5rem !important;
   }
-  .hero .hero__title {
-    font-size: 2.5rem !important;;
-    opacity: 1rem;
-  }
 }
 
 @media screen and (min-width: 997px) {
   :root {
-    --ifm-font-size-base: 17px;
+    --ifm-font-size-base: 18px;
   }
   article header h1 {
-    font-size: 2rem !important;
+    font-size: 3rem !important;
   }
   .hero .hero__title {
-    font-size: 3.5rem !important;
-    padding-top: 1.5em;
+    font-size: 3.9rem !important;
   }
   .hero .hero__subtitle {
-    font-size: 2.5rem !important;
-    padding-top: 0.1em;
+    font-size: 3rem !important;
   }
 }

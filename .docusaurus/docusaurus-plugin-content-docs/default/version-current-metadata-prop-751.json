@@ -12,14 +12,14 @@
       {
         "type": "link",
         "label": "Introduction",
-        "href": "/docs/knowledgebase",
-        "docId": "knowledgebase"
+        "href": "/docs/wiki",
+        "docId": "wiki"
       }
     ]
   },
   "docs": {
-    "knowledgebase": {
-      "id": "knowledgebase",
+    "wiki": {
+      "id": "wiki",
       "title": "Introduction",
       "description": "Discover things I've learned",
       "sidebar": "tutorialSidebar"
