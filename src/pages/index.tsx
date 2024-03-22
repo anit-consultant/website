@@ -23,7 +23,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title="anitshrestha.com.np"
-      description="Enterprise Software Consultant">
+      description="Software Consultant">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
