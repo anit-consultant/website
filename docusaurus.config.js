@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 
 const config = {
-  title: 'ANIT - Enterprise Software Consultant',
+  title: 'Anit Shrestha - Software Consultant',
   url: 'https://anitshrestha.com.np',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -81,7 +81,7 @@ const config = {
       },
 
       footer: {
-        copyright: `Copyright © ${new Date().getFullYear()} Anit Shrestha. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} anitshrestha.com.np`,
         }  
     }),
 };
